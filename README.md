@@ -1,4 +1,4 @@
-# The-Coffee-Shop-Tableau
+# The Coffee Shop Analysis
 - The Coffee Cup is an ambitious Canadian national company with registered branches across the country.
 - The business has always aimed to reach every resident of Canada and provide them with high-quality coffee and tea. 
 - The Coffee Up has consistently worked to earn the hearts of its customers by giving them genuine, great services, employing talented employees who have a passion for providing excellent customer service, and offering a service that is unique from that of its rivals in the market.
